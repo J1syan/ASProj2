@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/fax.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/fax_press.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/fx.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/me.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/me_press.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/txl.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/txl_press.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/wechat.xml" value="0.1" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/wx.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/drawable/wx_press.xml" value="0.1645" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/activity_chat.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/activity_find.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/activity_find_result.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/activity_main.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/activity_result.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/bottom.xml" value="0.1" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/item.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/item_chat.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/item_find.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/tab01.xml" value="0.1" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/tab02.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/tab03.xml" value="0.1" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/tab04.xml" value="0.1" />
+        <entry key="..\:/Users/Eriserva/Desktop/AS/J1syan/as2/app/src/main/res/layout/top.xml" value="0.11548913043478261" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
